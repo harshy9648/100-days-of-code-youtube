@@ -1,2 +1,3 @@
-print("Hello World")
-print(5)
+
+5= Hello 
+print=5
